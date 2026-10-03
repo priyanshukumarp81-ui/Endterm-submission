@@ -1,0 +1,9 @@
+{
+    "total_events_processed": 72,
+    "actions_distribution": {
+        "NO_ACTION": 72
+    },
+    "ground_truth_records_found": 3,
+    "evaluation_status": "SUCCESS",
+    "notes": "Inferred events successfully evaluated against scenario ground truth."
+}
